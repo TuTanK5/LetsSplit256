@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L void_keeb-cache:promicro_ProMicro U1
+L LetsSplit256-rescue:promicro_ProMicro-void_keeb-cache U1
 U 1 1 5BB733A3
 P 7300 3500
 F 0 "U1" H 7300 4537 60  0000 C CNN
