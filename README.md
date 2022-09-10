@@ -5,4 +5,4 @@ Has both column-staggered and ortholinear layouts.
 
 QMK firmware:
 
-https://github.com/TuTanK5/qmk_firmware/
+https://github.com/TuTanK5/qmk_firmware/tree/master/keyboards/lets_split_256
